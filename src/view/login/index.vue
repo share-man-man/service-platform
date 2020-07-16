@@ -1,7 +1,7 @@
 <template>
   <div class="omsp-login">
     <div class="omsp-login-header">
-      <van-image :src="headImgSrc" fit="cover" />
+      <van-image :src="headImgSrc" width="100vw" fit="fill" />
     </div>
     <div id="loginForm" class="omsp-login-body">
       <div style="height: 100%;width: 100%;position: relative">
@@ -99,7 +99,6 @@ export default {
     })
   },
   mounted() {
-    console.log(this.headImgSrc)
     // 如果是退出登陆，需要刷新界面和缓存
     if (this.cachePageName.length > 0) {
       window.location.reload()
