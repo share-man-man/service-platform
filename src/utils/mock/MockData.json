@@ -1,0 +1,2048 @@
+[
+  {
+    "response": {
+      "data": {
+        "map": {
+          "flag": true,
+          "token": "3471b81df34c46eeba28191fa68d989c",
+          "username": "用户1"
+        }
+      }
+    },
+    "url": "/appLoginRestService/login",
+    "data": "loginid=shuxm&password=MQ%3D%3D"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"biz_code\":\"SJ\",\"bsid\":\"2020071510005037\",\"create_date\":\"2020-07-15 15:12:06.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"111\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1532501\",\"progress\":\"0.167\",\"target_sys\":\"2020052010004088\",\"target_sys_name\":\"用户3的项目1\",\"taskId\":\"1532510\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"web端事件15:57\",\"urgency\":\"04\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071510005036\",\"create_date\":\"2020-07-15 15:04:47.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>11111</p>\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-21E4FC47-71AA-44ED-9EF5-0C32D52C60DA\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"previousNodeName\":\"节点2\",\"previousUser\":\"110271\",\"processInstanceId\":\"1532514\",\"progress\":\"0.5\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1532541\",\"taskName\":\"结果确认\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:50\",\"urgency\":\"03\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071510005035\",\"create_date\":\"2020-07-15 14:47:06.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>15:33</p>\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1530068\",\"progress\":\"0.167\",\"target_sys\":\"2020052510004180\",\"target_sys_name\":\"suhang525\",\"taskId\":\"1530077\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:32\",\"urgency\":\"02\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071410005015\",\"create_date\":\"2020-07-14 16:52:28.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>1</p>\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1522501\",\"progress\":\"0.167\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1522510\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"17:38\",\"urgency\":\"01\"},{\"biz_code\":\"WT\",\"bsid\":\"2020071410005013\",\"create_date\":\"2020-07-14 16:08:58.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>2</p>\",\"flowId\":\"WT_142\",\"flowNodeId\":\"sid-76599F8C-BE02-4A8F-9443-20409204DAD3\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1520001\",\"progress\":\"0.334\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1520010\",\"taskName\":\"节点1\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"16:54\",\"urgency\":\"01\"},{\"biz_code\":\"BG\",\"bsid\":\"2020071410005011\",\"create_date\":\"2020-07-14 15:13:05.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>333</p>\",\"flowId\":\"BG_320\",\"flowNodeId\":\"sid-76E1A0B6-1ADC-4FA9-BE9C-CCC0567A84B8\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1517511\",\"progress\":\"0.25\",\"target_sys\":\"2020052010004082\",\"target_sys_name\":\"用户2的项目2\",\"taskId\":\"1517520\",\"taskName\":\"CE\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:58\",\"urgency\":\"01\"},{\"biz_code\":\"BG\",\"bsid\":\"2020071410005009\",\"create_date\":\"2020-07-14 13:57:44.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"3333\",\"flowId\":\"BG_320\",\"flowNodeId\":\"sid-76E1A0B6-1ADC-4FA9-BE9C-CCC0567A84B8\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1517501\",\"progress\":\"0.25\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1517510\",\"taskName\":\"CE\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"14:43\",\"urgency\":\"01\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071410005001\",\"create_date\":\"2020-07-14 09:48:17.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"sad\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1507734\",\"progress\":\"0.167\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1507743\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:34\",\"urgency\":\"03\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071410005000\",\"create_date\":\"2020-07-14 09:43:49.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"asd\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1507713\",\"progress\":\"0.167\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1507722\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:29\",\"urgency\":\"03\"},{\"biz_code\":\"WT\",\"bsid\":\"2020071410004996\",\"create_date\":\"2020-07-14 09:03:35.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>dasd</p>\",\"flowId\":\"WT_142\",\"flowNodeId\":\"sid-76599F8C-BE02-4A8F-9443-20409204DAD3\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1507540\",\"progress\":\"0.334\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1507549\",\"taskName\":\"节点1\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"移动端提交9:49\",\"urgency\":\"01\"}]"
+      }
+    },
+    "url": "/appTaskRestService/queryWaitDeal",
+    "data": "start=1&end=10"
+  },
+  {
+    "response": {
+      "data": {
+        "taskInfoCount": "{\"CG\":10,\"BJ\":14,\"YB\":21,\"DB\":14}",
+        "messageMap": "{\"bgCount\":1,\"fbCount\":0,\"sjCount\":10,\"wtCount\":11}",
+        "codeMap": {
+          "URGENCY": [
+            {
+              "name": "非常紧急",
+              "py": "fcjj",
+              "id": "01"
+            },
+            {
+              "name": "紧急",
+              "py": "jj",
+              "id": "02"
+            },
+            {
+              "name": "普通",
+              "py": "pt",
+              "id": "03"
+            },
+            {
+              "name": "一般",
+              "py": "yb",
+              "id": "04"
+            }
+          ],
+          "BUSINESS_TYPE": [
+            {
+              "name": "变更",
+              "py": "bg",
+              "id": "BG"
+            },
+            {
+              "name": "发布",
+              "py": "fb",
+              "id": "FB"
+            },
+            {
+              "name": "IT运维流程",
+              "py": "ITywlc",
+              "id": "IT"
+            },
+            {
+              "name": "请假",
+              "py": "qj",
+              "id": "QJ"
+            },
+            {
+              "name": "事件",
+              "py": "sj",
+              "id": "SJ"
+            },
+            {
+              "name": "问题",
+              "py": "wt",
+              "id": "WT"
+            },
+            {
+              "name": "下班",
+              "py": "xb",
+              "id": "XB"
+            }
+          ]
+        }
+      }
+    },
+    "url": "/appLoginRestService/initInfo",
+    "data": ""
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"biz_code\":\"SJ\",\"bsid\":\"2020071510005037\",\"create_date\":\"2020-07-15 15:12:06.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"111\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1532501\",\"progress\":\"0.167\",\"target_sys\":\"2020052010004088\",\"target_sys_name\":\"用户3的项目1\",\"taskId\":\"1532510\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"web端事件15:57\",\"urgency\":\"04\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071510005036\",\"create_date\":\"2020-07-15 15:04:47.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>11111</p>\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-21E4FC47-71AA-44ED-9EF5-0C32D52C60DA\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"previousNodeName\":\"节点2\",\"previousUser\":\"110271\",\"processInstanceId\":\"1532514\",\"progress\":\"0.5\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1532541\",\"taskName\":\"结果确认\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:50\",\"urgency\":\"03\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071510005035\",\"create_date\":\"2020-07-15 14:47:06.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>15:33</p>\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1530068\",\"progress\":\"0.167\",\"target_sys\":\"2020052510004180\",\"target_sys_name\":\"suhang525\",\"taskId\":\"1530077\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:32\",\"urgency\":\"02\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071410005015\",\"create_date\":\"2020-07-14 16:52:28.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>1</p>\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1522501\",\"progress\":\"0.167\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1522510\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"17:38\",\"urgency\":\"01\"},{\"biz_code\":\"WT\",\"bsid\":\"2020071410005013\",\"create_date\":\"2020-07-14 16:08:58.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>2</p>\",\"flowId\":\"WT_142\",\"flowNodeId\":\"sid-76599F8C-BE02-4A8F-9443-20409204DAD3\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1520001\",\"progress\":\"0.334\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1520010\",\"taskName\":\"节点1\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"16:54\",\"urgency\":\"01\"},{\"biz_code\":\"BG\",\"bsid\":\"2020071410005011\",\"create_date\":\"2020-07-14 15:13:05.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"<p>333</p>\",\"flowId\":\"BG_320\",\"flowNodeId\":\"sid-76E1A0B6-1ADC-4FA9-BE9C-CCC0567A84B8\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1517511\",\"progress\":\"0.25\",\"target_sys\":\"2020052010004082\",\"target_sys_name\":\"用户2的项目2\",\"taskId\":\"1517520\",\"taskName\":\"CE\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:58\",\"urgency\":\"01\"},{\"biz_code\":\"BG\",\"bsid\":\"2020071410005009\",\"create_date\":\"2020-07-14 13:57:44.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"3333\",\"flowId\":\"BG_320\",\"flowNodeId\":\"sid-76E1A0B6-1ADC-4FA9-BE9C-CCC0567A84B8\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1517501\",\"progress\":\"0.25\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1517510\",\"taskName\":\"CE\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"14:43\",\"urgency\":\"01\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071410005001\",\"create_date\":\"2020-07-14 09:48:17.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"sad\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1507734\",\"progress\":\"0.167\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1507743\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:34\",\"urgency\":\"03\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020071410005000\",\"create_date\":\"2020-07-14 09:43:49.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"asd\",\"flowId\":\"SJ_480\",\"flowNodeId\":\"sid-58FF2635-118D-4026-9223-E59E1372582B\",\"nodestate\":\"1\",\"orgid\":\"111749\",\"processInstanceId\":\"1507713\",\"progress\":\"0.167\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1507722\",\"taskName\":\"审批\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:29\",\"urgency\":\"03\"}]"
+      }
+    },
+    "url": "/appTaskRestService/queryWaitDeal",
+    "data": "bizCodeStr=SJ%7CWT%7CBG%7CFB%7C&start=1&end=9&searchValue="
+  },
+  {
+    "response": {
+      "data": {
+        "list": "[{\"biz_code\":\"SJ\",\"time\":\"2020-07-15 15:14:28\",\"rn\":1,\"title\":\"15:50\",\"value\":\" 执行了 节点2 \",\"username\":\"用户3\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-15 13:18:49\",\"rn\":2,\"title\":\"14:03\",\"value\":\" 执行了 结果确认 \",\"username\":\"用户3\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-15 10:47:40\",\"rn\":3,\"title\":\"11:32\",\"value\":\" 执行了 审批 \",\"username\":\"用户1\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-15 10:43:01\",\"rn\":4,\"title\":\"11：27\",\"value\":\" 执行了 审批 \",\"username\":\"用户1\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-15 10:34:23\",\"rn\":5,\"title\":\"web端事件11:19\",\"value\":\" 执行了 审批 \",\"username\":\"用户1\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-15 10:33:13\",\"rn\":6,\"title\":\"事件:11:18\",\"value\":\" 执行了 审批 \",\"username\":\"用户1\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-14 17:00:15\",\"rn\":7,\"title\":\"17:44\",\"value\":\" 执行了 结果确认 \",\"username\":\"用户1\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-14 16:52:38\",\"rn\":8,\"title\":\"17:38\",\"value\":\" 领取了 任务 \",\"username\":\"用户1\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-14 09:48:57\",\"rn\":9,\"title\":\"10:34\",\"value\":\" 领取了 任务 \",\"username\":\"用户1\"},{\"biz_code\":\"SJ\",\"time\":\"2020-07-14 09:45:07\",\"rn\":10,\"title\":\"10:29\",\"value\":\" 领取了 任务 \",\"username\":\"用户1\"}]"
+      }
+    },
+    "url": "/appMessageRest/getMessageList",
+    "data": "start=1&end=10&biz_code=SJ"
+  },
+  {
+    "response": {
+      "data": {
+        "list": "[]"
+      }
+    },
+    "url": "/appMessageRest/getMessageList",
+    "data": "start=11&end=20&biz_code=SJ"
+  },
+  {
+    "response": {
+      "data": {
+        "list": "[{\"biz_code\":\"WT\",\"time\":\"2020-07-14 16:09:09\",\"rn\":1,\"title\":\"16:54\",\"value\":\" 领取了 任务 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 13:20:11\",\"rn\":2,\"title\":\"13:34\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 12:53:12\",\"rn\":3,\"title\":\"13:36\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 10:55:06\",\"rn\":4,\"title\":\"11:34\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 10:47:36\",\"rn\":5,\"title\":\"11:28\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 10:41:12\",\"rn\":6,\"title\":\"11:12\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 10:25:51\",\"rn\":7,\"title\":\"11:08\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 10:22:29\",\"rn\":8,\"title\":\"10:50\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 10:02:57\",\"rn\":9,\"title\":\"问题9:53\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"},{\"biz_code\":\"WT\",\"time\":\"2020-07-14 10:00:41\",\"rn\":10,\"title\":\"10:08\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"}]"
+      }
+    },
+    "url": "/appMessageRest/getMessageList",
+    "data": "start=1&end=10&biz_code=WT"
+  },
+  {
+    "response": {
+      "data": {
+        "list": "[{\"biz_code\":\"WT\",\"time\":\"2020-07-14 09:21:39\",\"rn\":11,\"title\":\"问题等级10:00\",\"value\":\" 执行了 节点2 \",\"username\":\"用户1\"}]"
+      }
+    },
+    "url": "/appMessageRest/getMessageList",
+    "data": "start=11&end=20&biz_code=WT"
+  },
+  {
+    "response": {
+      "data": {
+        "list": "[{\"biz_code\":\"BG\",\"time\":\"2020-07-14 15:13:45\",\"rn\":1,\"title\":\"15:58\",\"value\":\" 领取了 任务 \",\"username\":\"用户1\"}]"
+      }
+    },
+    "url": "/appMessageRest/getMessageList",
+    "data": "start=1&end=9&biz_code=BG"
+  },
+  {
+    "response": {
+      "data": {
+        "list": "[]"
+      }
+    },
+    "url": "/appMessageRest/getMessageList",
+    "data": "start=1&end=8&biz_code=FB"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"bsid\":\"2020071510005038\",\"biz_code\":\"XB\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"自定义16:06\",\"proc_inst_id_\":\"1532544\",\"end_time_\":1594800569527,\"update_date\":\"2020-07-15 16:09:29\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005038\",\"state\":\"07\",\"rn\":1,\"create_date\":1594742400000,\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071510005036\",\"biz_code\":\"SJ\",\"nownodename\":\"结果确认\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:50\",\"proc_inst_id_\":\"1532514\",\"update_date\":\"2020-07-15 16:00:33\",\"updater\":\"110271\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005036\",\"state\":\"05\",\"rn\":2,\"create_date\":1594796687000,\"category\":\"03\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071510005028\",\"biz_code\":\"XB\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"自定义14:25\",\"proc_inst_id_\":\"1530035\",\"end_time_\":1594795401285,\"update_date\":\"2020-07-15 14:43:21\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005028\",\"state\":\"07\",\"rn\":3,\"create_date\":1594742400000,\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071510005027\",\"biz_code\":\"SJ\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"14:03\",\"proc_inst_id_\":\"1530001\",\"end_time_\":1594793094813,\"update_date\":\"2020-07-15 14:04:55\",\"updater\":\"110271\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005027\",\"state\":\"06\",\"rn\":4,\"create_date\":1594790248000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071510005026\",\"biz_code\":\"SJ\",\"nownodename\":\"节点2\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:32\",\"proc_inst_id_\":\"1527501\",\"update_date\":\"2020-07-15 11:33:45\",\"updater\":\"115365\",\"nowdeal\":\"110271\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005026\",\"state\":\"01\",\"rn\":5,\"create_date\":1594781213000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071510005025\",\"biz_code\":\"SJ\",\"nownodename\":\"节点1\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11：27\",\"proc_inst_id_\":\"1525047\",\"update_date\":\"2020-07-15 11:29:06\",\"updater\":\"115365\",\"nowdeal\":\"110271\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户3的项目1\",\"target_sys\":\"2020052010004088\",\"id\":\"2020071510005025\",\"state\":\"01\",\"rn\":6,\"create_date\":1594780922000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071510005024\",\"biz_code\":\"SJ\",\"nownodename\":\"节点1\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"web端事件11:19\",\"proc_inst_id_\":\"1525024\",\"update_date\":\"2020-07-15 11:20:28\",\"updater\":\"115365\",\"nowdeal\":\"110271\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户3的项目1\",\"target_sys\":\"2020052010004088\",\"id\":\"2020071510005024\",\"state\":\"01\",\"rn\":7,\"create_date\":1594780431000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071510005023\",\"biz_code\":\"SJ\",\"nownodename\":\"节点1\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"事件:11:18\",\"proc_inst_id_\":\"1525001\",\"update_date\":\"2020-07-15 11:19:19\",\"updater\":\"115365\",\"nowdeal\":\"110271\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005023\",\"state\":\"01\",\"rn\":8,\"create_date\":1594780338000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410005016\",\"biz_code\":\"SJ\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"17:44\",\"proc_inst_id_\":\"1522522\",\"end_time_\":1594719979998,\"update_date\":\"2020-07-14 17:46:20\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005016\",\"state\":\"06\",\"rn\":9,\"create_date\":1594717148000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410005008\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"13:36\",\"proc_inst_id_\":\"1515036\",\"end_time_\":1594705119513,\"update_date\":\"2020-07-14 13:39:16\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005008\",\"state\":\"06\",\"rn\":10,\"create_date\":1594702272000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"}]"
+      }
+    },
+    "url": "/appTaskRestService/getMyDeal",
+    "data": "start=1&end=10"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"bsid\":\"2020071510005038\",\"biz_code\":\"XB\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"自定义16:06\",\"proc_inst_id_\":\"1532544\",\"end_time_\":1594800569527,\"update_date\":\"2020-07-15 16:09:29\",\"start_time_\":1594800433077,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005038\",\"state\":\"07\",\"rn\":1,\"create_date\":1594742400000,\"creatername\":\"用户1\"},{\"bsid\":\"2020071510005028\",\"biz_code\":\"XB\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"自定义14:25\",\"proc_inst_id_\":\"1530035\",\"end_time_\":1594795401285,\"update_date\":\"2020-07-15 14:43:21\",\"start_time_\":1594794362740,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005028\",\"state\":\"07\",\"rn\":2,\"create_date\":1594742400000,\"creatername\":\"用户1\"},{\"bsid\":\"2020071510005027\",\"biz_code\":\"SJ\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"14:03\",\"proc_inst_id_\":\"1530001\",\"end_time_\":1594793094813,\"update_date\":\"2020-07-15 14:04:55\",\"start_time_\":1594793015121,\"updater\":\"110271\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005027\",\"state\":\"06\",\"rn\":3,\"create_date\":1594790248000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410005016\",\"biz_code\":\"SJ\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"17:44\",\"proc_inst_id_\":\"1522522\",\"end_time_\":1594719979998,\"update_date\":\"2020-07-14 17:46:20\",\"start_time_\":1594719914448,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005016\",\"state\":\"06\",\"rn\":4,\"create_date\":1594717148000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410005008\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"13:36\",\"proc_inst_id_\":\"1515036\",\"end_time_\":1594705119513,\"update_date\":\"2020-07-14 13:39:16\",\"start_time_\":1594705037632,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005008\",\"state\":\"06\",\"rn\":5,\"create_date\":1594702272000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410005007\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"13:34\",\"proc_inst_id_\":\"1515001\",\"end_time_\":1594706775243,\"update_date\":\"2020-07-14 14:06:15\",\"start_time_\":1594704890789,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005007\",\"state\":\"06\",\"rn\":6,\"create_date\":1594702125000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410005006\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:34\",\"proc_inst_id_\":\"1512581\",\"end_time_\":1594698037527,\"update_date\":\"2020-07-14 11:41:11\",\"start_time_\":1594697680530,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005006\",\"state\":\"06\",\"rn\":7,\"create_date\":1594694915000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410005005\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:28\",\"proc_inst_id_\":\"1512523\",\"end_time_\":1594697586378,\"update_date\":\"2020-07-14 11:33:41\",\"start_time_\":1594697332957,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005005\",\"state\":\"06\",\"rn\":8,\"create_date\":1594694567000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410005004\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:12\",\"proc_inst_id_\":\"1510062\",\"end_time_\":1594697235561,\"update_date\":\"2020-07-14 11:27:16\",\"start_time_\":1594696384342,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005004\",\"state\":\"06\",\"rn\":9,\"create_date\":1594693619000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410005003\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:08\",\"proc_inst_id_\":\"1510004\",\"end_time_\":1594696315434,\"update_date\":\"2020-07-14 11:11:55\",\"start_time_\":1594696162492,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005003\",\"state\":\"06\",\"rn\":10,\"create_date\":1594693397000,\"category\":\"01\",\"creatername\":\"用户1\"}]"
+      }
+    },
+    "url": "/appTaskRestService/queryEndByMe",
+    "data": "start=1&end=10"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"biz_code\":\"FB\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目2\",\"target_sys\":\"2020052010004082\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071510005022\",\"state\":\"00\",\"rn\":1,\"title\":\"11:15\",\"create_date\":1594780178000,\"creatername\":\"用户1\"},{\"biz_code\":\"FB\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071510005021\",\"state\":\"00\",\"rn\":2,\"title\":\"11:14\",\"create_date\":1594780095000,\"creatername\":\"用户1\"},{\"biz_code\":\"FB\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目2\",\"target_sys\":\"2020052010004082\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071510005020\",\"state\":\"00\",\"rn\":3,\"title\":\"10:28\",\"create_date\":1594777394000,\"creatername\":\"用户1\"},{\"biz_code\":\"SJ\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户3的项目1\",\"target_sys\":\"2020052010004088\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071410005014\",\"state\":\"00\",\"rn\":4,\"title\":\"17:05\",\"create_date\":1594714764000,\"creatername\":\"用户1\"},{\"biz_code\":\"WT\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071410005012\",\"state\":\"00\",\"rn\":5,\"title\":\"16:12\",\"create_date\":1594711621000,\"creatername\":\"用户1\"},{\"biz_code\":\"BG\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071410005010\",\"state\":\"00\",\"rn\":6,\"title\":\"14:49\",\"create_date\":1594706645000,\"creatername\":\"用户1\"},{\"biz_code\":\"WT\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071410004994\",\"state\":\"00\",\"rn\":7,\"title\":\"添加问题9:40\",\"create_date\":1594688132000,\"creatername\":\"用户1\"},{\"biz_code\":\"WT\",\"urgency\":\"03\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071410004993\",\"state\":\"00\",\"rn\":8,\"title\":\"添加问题9:35\",\"create_date\":1594687837000,\"creatername\":\"用户1\"},{\"biz_code\":\"WT\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071410004992\",\"state\":\"00\",\"rn\":9,\"title\":\"web端测试问题\",\"create_date\":1594686953000,\"creatername\":\"用户1\"},{\"biz_code\":\"WT\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"id\":\"2020071410004991\",\"state\":\"00\",\"rn\":10,\"title\":\"测试问题\",\"create_date\":1594686836000,\"creatername\":\"用户1\"}]"
+      }
+    },
+    "url": "/appTaskRestService/queryDraft",
+    "data": "start=1&end=10"
+  },
+  {
+    "response": {
+      "data": {}
+    },
+    "url": "/appTaskRestService/receiveTask",
+    "data": "nodestate=0&creater=115365&bsid=2020071510005037&biz_code=SJ&nodeid=sid-58FF2635-118D-4026-9223-E59E1372582B&proc_inst_id_=1532501&nodename=%E5%AE%A1%E6%89%B9&taskid=1532510"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentLevelList": [
+          {
+            "name": "一级：业务无法正常办理",
+            "py": "yj：ywwfzcbl",
+            "id": "01"
+          },
+          {
+            "name": "二级：严重影响业务办理",
+            "py": "ej：yzyxywbl",
+            "id": "02"
+          },
+          {
+            "name": "三级：轻微影响业务办理",
+            "py": "sj：qwyxywbl",
+            "id": "03"
+          },
+          {
+            "name": "四级：不影响业务办理",
+            "py": "sj：byxywbl",
+            "id": "04"
+          }
+        ],
+        "incidentSource": [
+          {
+            "name": "WEB端",
+            "py": "WEBd",
+            "id": "01"
+          },
+          {
+            "name": "移动端",
+            "py": "ydd",
+            "id": "02"
+          },
+          {
+            "name": "外部接口",
+            "py": "wbjk",
+            "id": "03"
+          }
+        ],
+        "urgencyList": [
+          {
+            "name": "非常紧急",
+            "py": "fcjj",
+            "id": "01"
+          },
+          {
+            "name": "紧急",
+            "py": "jj",
+            "id": "02"
+          },
+          {
+            "name": "普通",
+            "py": "pt",
+            "id": "03"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "04"
+          }
+        ],
+        "categoryList": [
+          {
+            "name": "程序BUG修改",
+            "py": "cxBUGxg",
+            "id": "01"
+          },
+          {
+            "name": "功能调整",
+            "py": "gndz",
+            "id": "02"
+          },
+          {
+            "name": "新增功能及需求",
+            "py": "xzgnjxq",
+            "id": "03"
+          },
+          {
+            "name": "数据统计",
+            "py": "sjtj",
+            "id": "04"
+          },
+          {
+            "name": "一般数据维护：普通的数据维护",
+            "py": "ybsjwh：ptdsjwh",
+            "id": "05"
+          },
+          {
+            "name": "特殊数据维护：重要的，权限级别高的数据",
+            "py": "tssjwh：zyd，qxjbgdsj",
+            "id": "06"
+          },
+          {
+            "name": "数据回退",
+            "py": "sjht",
+            "id": "07"
+          },
+          {
+            "name": "系统故障",
+            "py": "xtgz",
+            "id": "08"
+          },
+          {
+            "name": "网络故障",
+            "py": "wlgz",
+            "id": "09"
+          },
+          {
+            "name": "解释工作",
+            "py": "jsgz",
+            "id": "10"
+          },
+          {
+            "name": "其他",
+            "py": "qt",
+            "id": "11"
+          }
+        ],
+        "originList": [
+          {
+            "effective": "1",
+            "orgidpath": "1/110266/111749",
+            "orgname": "开发",
+            "name": "开发",
+            "pid": 110266,
+            "id": 111749,
+            "orgnamepath": "平台开发部/开发",
+            "isleaf": "1",
+            "orgid": 111749,
+            "porgid": 110266
+          }
+        ],
+        "teamList": [
+          {
+            "name": "公共业务组",
+            "id": "597247d347ea4d73bd4880a77394f5fc"
+          },
+          {
+            "name": "四险待遇组",
+            "id": "76e9f03e005a455aa456c5824170f4ac"
+          },
+          {
+            "name": "123团队",
+            "id": "4a9ae5f22fc44ce19b332eeb5ca958e6"
+          },
+          {
+            "name": "温江区",
+            "id": "72eb6d6deea24f219db5969dc561ce07"
+          }
+        ],
+        "userid": 115365,
+        "problemSource": [
+          {
+            "name": "事件管理",
+            "py": "sjgl",
+            "id": "01"
+          },
+          {
+            "name": "问题创建",
+            "py": "wtcj",
+            "id": "02"
+          }
+        ],
+        "username": "用户1"
+      }
+    },
+    "url": "/appTaskRestService/getTaskBasicInfo",
+    "data": ""
+  },
+  {
+    "response": {
+      "data": {
+        "satisfactionType": [
+          {
+            "name": "非常满意",
+            "py": "fcmy",
+            "id": "01"
+          },
+          {
+            "name": "满意",
+            "py": "my",
+            "id": "02"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "03"
+          },
+          {
+            "name": "不满意",
+            "py": "bmy",
+            "id": "04"
+          }
+        ],
+        "checkAction": "{\"actionids\":\"nextNode,nodeUser\"}",
+        "nextNode": [
+          {
+            "name": "节点1",
+            "id": "sid-DEB350C5-9596-4A15-93BD-008646740B00"
+          },
+          {
+            "name": "节点2",
+            "id": "sid-F40118F4-43D0-4FDA-B550-3A56921C135F"
+          },
+          {
+            "name": "节点3",
+            "id": "sid-3E918D39-76EA-4AC6-8082-F0F281491C74"
+          }
+        ],
+        "delUserList": "null",
+        "formData": {
+          "description": "111",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "web端事件15:57",
+          "applicant_phone": "123123123123",
+          "orgid": 111749,
+          "update_date": "2020-07-15 15:58:21",
+          "updater": "115365",
+          "ck_description": "111",
+          "occur_date": "2020-07-15 15:56:54",
+          "applicant": "用户1",
+          "incident_level": "03",
+          "orgname": "开发",
+          "urgency": "04",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052010004088",
+          "id": "2020071510005037",
+          "state": "01",
+          "create_date": "2020-07-15 15:12:06",
+          "category": "04"
+        }
+      }
+    },
+    "url": "/appTaskRestService/toDeal",
+    "data": "biz_code=SJ&bsid=2020071510005037&create_date=2020-07-15%2015%3A12%3A06.0&creater=115365&creatername=%E8%88%92%E6%99%93%E6%BB%A1&description=111&flowId=SJ_480&flowNodeId=sid-58FF2635-118D-4026-9223-E59E1372582B&nodestate=0&orgid=111749&processInstanceId=1532501&progress=0.167&target_sys=2020052010004088&target_sys_name=%E9%BE%9A%E5%BC%BA%E6%9E%97%E7%9A%84%E9%A1%B9%E7%9B%AE1&taskId=1532510&taskName=%E5%AE%A1%E6%89%B9&team_id=4a9ae5f22fc44ce19b332eeb5ca958e6&title=web%E7%AB%AF%E4%BA%8B%E4%BB%B615%3A57&urgency=04"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentData": "{\"is_view\":\"1\",\"description\":\"111\",\"source\":\"01\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"web端事件15:57\",\"updater\":\"115365\",\"ck_description\":\"111\",\"incident_level\":\"03\",\"orgname\":\"开发\",\"urgency\":\"04\",\"is_draft\":\"0\",\"target_sys\":\"2020052010004088\",\"id\":\"2020071510005037\",\"state\":\"01\",\"create_date\":1594797126000,\"applicant_phone\":\"123123123123\",\"orgid\":111749,\"update_date\":1594799901000,\"occur_date\":\"2020-07-15 15:56:54\",\"applicant\":\"用户1\",\"creater\":\"115365\",\"category\":\"04\"}"
+      }
+    },
+    "url": "/appTaskRestService/getIncident",
+    "data": "id=2020071510005037"
+  },
+  {
+    "response": {
+      "data": {
+        "targetSysList": [
+          {
+            "name": "用户2的项目6",
+            "id": "2020052210004131"
+          },
+          {
+            "name": "用户2的项目2",
+            "id": "2020052010004082"
+          },
+          {
+            "name": "用户3的项目1",
+            "id": "2020052010004088"
+          },
+          {
+            "name": "suhang525",
+            "id": "2020052510004180"
+          }
+        ]
+      }
+    },
+    "url": "/appTaskRestService/getTargetSys",
+    "data": "team_id=4a9ae5f22fc44ce19b332eeb5ca958e6"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1532501",
+            "bsid": "2020071510005037",
+            "biz_code": "SJ",
+            "cumulative": 0.8,
+            "userid": "115365",
+            "end_time_": "2020-07-15 15:58:20",
+            "duration_": "0",
+            "start_time_": "2020-07-15 15:58:20",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1532501"
+  },
+  {
+    "response": {
+      "data": {
+        "nodeUserList": [
+          {
+            "name": "用户3",
+            "id": "110271"
+          },
+          {
+            "name": "用户1",
+            "id": "115365"
+          }
+        ]
+      }
+    },
+    "url": "/appTaskRestService/getNodeUser",
+    "data": "nodeid=sid-DEB350C5-9596-4A15-93BD-008646740B00&processInstanceId=1532501&bsid=2020071510005037&biz_code=SJ"
+  },
+  {
+    "response": {
+      "data": {}
+    },
+    "url": "/appTaskRestService/receiveTask",
+    "data": "nodestate=0&creater=115365&bsid=2020071510005036&biz_code=SJ&nodeid=sid-21E4FC47-71AA-44ED-9EF5-0C32D52C60DA&proc_inst_id_=1532514&nodename=%E7%BB%93%E6%9E%9C%E7%A1%AE%E8%AE%A4&taskid=1532541"
+  },
+  {
+    "response": {
+      "data": {
+        "satisfactionType": [
+          {
+            "name": "非常满意",
+            "py": "fcmy",
+            "id": "01"
+          },
+          {
+            "name": "满意",
+            "py": "my",
+            "id": "02"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "03"
+          },
+          {
+            "name": "不满意",
+            "py": "bmy",
+            "id": "04"
+          }
+        ],
+        "checkAction": "{\"actionids\":\"SATISFACTION\"}",
+        "nextNode": [
+          {
+            "name": "结束",
+            "id": "sid-BCEA13EF-9C2C-4D72-8E52-E763DAE432F0"
+          }
+        ],
+        "delUserList": "null",
+        "formData": {
+          "description": "<p>11111</p>",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "15:50",
+          "applicant_phone": "11111111111",
+          "orgid": 111749,
+          "update_date": "2020-07-15 16:00:33",
+          "updater": "110271",
+          "ck_description": "<p>11111</p>",
+          "occur_date": "2020-07-15 15:50:00",
+          "applicant": "用户1",
+          "incident_level": "03",
+          "orgname": "开发",
+          "urgency": "03",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052210004131",
+          "id": "2020071510005036",
+          "state": "05",
+          "create_date": "2020-07-15 15:04:47",
+          "category": "03"
+        }
+      }
+    },
+    "url": "/appTaskRestService/toDeal",
+    "data": "biz_code=SJ&bsid=2020071510005036&create_date=2020-07-15%2015%3A04%3A47.0&creater=115365&creatername=%E8%88%92%E6%99%93%E6%BB%A1&description=%3Cp%3E11111%3C%2Fp%3E&flowId=SJ_480&flowNodeId=sid-21E4FC47-71AA-44ED-9EF5-0C32D52C60DA&nodestate=0&orgid=111749&previousNodeName=%E8%8A%82%E7%82%B92&previousUser=110271&processInstanceId=1532514&progress=0.5&target_sys=2020052210004131&target_sys_name=%E8%8B%8F%E8%88%AA%E7%9A%84%E9%A1%B9%E7%9B%AE6&taskId=1532541&taskName=%E7%BB%93%E6%9E%9C%E7%A1%AE%E8%AE%A4&team_id=4a9ae5f22fc44ce19b332eeb5ca958e6&title=15%3A50&urgency=03"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentData": "{\"is_view\":\"1\",\"description\":\"<p>11111</p>\",\"source\":\"01\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:50\",\"updater\":\"110271\",\"ck_description\":\"<p>11111</p>\",\"incident_level\":\"03\",\"orgname\":\"开发\",\"urgency\":\"03\",\"is_draft\":\"0\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005036\",\"state\":\"05\",\"create_date\":1594796687000,\"applicant_phone\":\"11111111111\",\"orgid\":111749,\"update_date\":1594800033000,\"occur_date\":\"2020-07-15 15:50:00\",\"applicant\":\"用户1\",\"creater\":\"115365\",\"category\":\"03\"}"
+      }
+    },
+    "url": "/appTaskRestService/getIncident",
+    "data": "id=2020071510005036"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1532514",
+            "bsid": "2020071510005036",
+            "biz_code": "SJ",
+            "cumulative": 0.79,
+            "userid": "115365",
+            "end_time_": "2020-07-15 15:59:24",
+            "duration_": "0",
+            "start_time_": "2020-07-15 15:59:24",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          },
+          {
+            "processInstanceId": "1532514",
+            "bsid": "2020071510005036",
+            "biz_code": "SJ",
+            "userid": "115365",
+            "end_time_": "2020-07-15 16:00:01",
+            "duration_": "0.01",
+            "start_time_": "2020-07-15 15:59:24",
+            "havForm": "0",
+            "nodename": "审批",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "111",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1532523"
+          },
+          {
+            "processInstanceId": "1532514",
+            "bsid": "2020071510005036",
+            "biz_code": "SJ",
+            "userid": "110271",
+            "end_time_": "2020-07-15 16:00:32",
+            "duration_": "0.01",
+            "start_time_": "2020-07-15 16:00:01",
+            "havForm": "0",
+            "nodename": "节点2",
+            "nodestate": "2",
+            "name": "用户3",
+            "opinions": "222",
+            "orgnamepath": "平台开发部",
+            "taskId": "1532533"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1532514"
+  },
+  {
+    "response": {
+      "data": {}
+    },
+    "url": "/appTaskRestService/receiveTask",
+    "data": "nodestate=0&creater=115365&bsid=2020071510005035&biz_code=SJ&nodeid=sid-58FF2635-118D-4026-9223-E59E1372582B&proc_inst_id_=1530068&nodename=%E5%AE%A1%E6%89%B9&taskid=1530077"
+  },
+  {
+    "response": {
+      "data": {
+        "satisfactionType": [
+          {
+            "name": "非常满意",
+            "py": "fcmy",
+            "id": "01"
+          },
+          {
+            "name": "满意",
+            "py": "my",
+            "id": "02"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "03"
+          },
+          {
+            "name": "不满意",
+            "py": "bmy",
+            "id": "04"
+          }
+        ],
+        "checkAction": "{\"actionids\":\"nextNode,nodeUser\"}",
+        "nextNode": [
+          {
+            "name": "节点1",
+            "id": "sid-DEB350C5-9596-4A15-93BD-008646740B00"
+          },
+          {
+            "name": "节点2",
+            "id": "sid-F40118F4-43D0-4FDA-B550-3A56921C135F"
+          },
+          {
+            "name": "节点3",
+            "id": "sid-3E918D39-76EA-4AC6-8082-F0F281491C74"
+          }
+        ],
+        "delUserList": "null",
+        "formData": {
+          "description": "<p>15:33</p>",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "15:32",
+          "applicant_phone": "3333333333",
+          "orgid": 111749,
+          "update_date": "2020-07-15 15:33:34",
+          "updater": "115365",
+          "ck_description": "<p>15:33</p>",
+          "occur_date": "2020-07-15 15:32:00",
+          "applicant": "用户1",
+          "incident_level": "02",
+          "orgname": "开发",
+          "urgency": "02",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052510004180",
+          "id": "2020071510005035",
+          "state": "01",
+          "create_date": "2020-07-15 14:47:06",
+          "category": "02"
+        }
+      }
+    },
+    "url": "/appTaskRestService/toDeal",
+    "data": "biz_code=SJ&bsid=2020071510005035&create_date=2020-07-15%2014%3A47%3A06.0&creater=115365&creatername=%E8%88%92%E6%99%93%E6%BB%A1&description=%3Cp%3E15%3A33%3C%2Fp%3E&flowId=SJ_480&flowNodeId=sid-58FF2635-118D-4026-9223-E59E1372582B&nodestate=0&orgid=111749&processInstanceId=1530068&progress=0.167&target_sys=2020052510004180&target_sys_name=suhang525&taskId=1530077&taskName=%E5%AE%A1%E6%89%B9&team_id=4a9ae5f22fc44ce19b332eeb5ca958e6&title=15%3A32&urgency=02"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentData": "{\"is_view\":\"1\",\"description\":\"<p>15:33</p>\",\"source\":\"01\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"15:32\",\"updater\":\"115365\",\"ck_description\":\"<p>15:33</p>\",\"incident_level\":\"02\",\"orgname\":\"开发\",\"urgency\":\"02\",\"is_draft\":\"0\",\"target_sys\":\"2020052510004180\",\"id\":\"2020071510005035\",\"state\":\"01\",\"create_date\":1594795626000,\"applicant_phone\":\"3333333333\",\"orgid\":111749,\"update_date\":1594798414000,\"occur_date\":\"2020-07-15 15:32:00\",\"applicant\":\"用户1\",\"creater\":\"115365\",\"category\":\"02\"}"
+      }
+    },
+    "url": "/appTaskRestService/getIncident",
+    "data": "id=2020071510005035"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1530068",
+            "bsid": "2020071510005035",
+            "biz_code": "SJ",
+            "cumulative": 1.23,
+            "userid": "115365",
+            "end_time_": "2020-07-15 15:33:33",
+            "duration_": "0",
+            "start_time_": "2020-07-15 15:33:33",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1530068"
+  },
+  {
+    "response": {
+      "data": {
+        "satisfactionType": [
+          {
+            "name": "非常满意",
+            "py": "fcmy",
+            "id": "01"
+          },
+          {
+            "name": "满意",
+            "py": "my",
+            "id": "02"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "03"
+          },
+          {
+            "name": "不满意",
+            "py": "bmy",
+            "id": "04"
+          }
+        ],
+        "checkAction": "{\"actionids\":\"nextNode,nodeUser\"}",
+        "nextNode": [
+          {
+            "name": "节点1",
+            "id": "sid-DEB350C5-9596-4A15-93BD-008646740B00"
+          },
+          {
+            "name": "节点2",
+            "id": "sid-F40118F4-43D0-4FDA-B550-3A56921C135F"
+          },
+          {
+            "name": "节点3",
+            "id": "sid-3E918D39-76EA-4AC6-8082-F0F281491C74"
+          }
+        ],
+        "delUserList": "null",
+        "formData": {
+          "description": "<p>1</p>",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "17:38",
+          "applicant_phone": "11111111111",
+          "orgid": 111749,
+          "update_date": "2020-07-14 17:38:34",
+          "updater": "115365",
+          "ck_description": "<p>1</p>",
+          "occur_date": "2020-07-14 17:38:00",
+          "applicant": "用户1",
+          "incident_level": "01",
+          "orgname": "开发",
+          "urgency": "01",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052210004131",
+          "id": "2020071410005015",
+          "state": "01",
+          "create_date": "2020-07-14 16:52:28",
+          "category": "01"
+        }
+      }
+    },
+    "url": "/appTaskRestService/toDeal",
+    "data": "biz_code=SJ&bsid=2020071410005015&create_date=2020-07-14%2016%3A52%3A28.0&creater=115365&creatername=%E8%88%92%E6%99%93%E6%BB%A1&description=%3Cp%3E1%3C%2Fp%3E&flowId=SJ_480&flowNodeId=sid-58FF2635-118D-4026-9223-E59E1372582B&nodestate=1&orgid=111749&processInstanceId=1522501&progress=0.167&target_sys=2020052210004131&target_sys_name=%E8%8B%8F%E8%88%AA%E7%9A%84%E9%A1%B9%E7%9B%AE6&taskId=1522510&taskName=%E5%AE%A1%E6%89%B9&team_id=4a9ae5f22fc44ce19b332eeb5ca958e6&title=17%3A38&urgency=01"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentData": "{\"is_view\":\"1\",\"description\":\"<p>1</p>\",\"source\":\"01\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"17:38\",\"updater\":\"115365\",\"ck_description\":\"<p>1</p>\",\"incident_level\":\"01\",\"orgname\":\"开发\",\"urgency\":\"01\",\"is_draft\":\"0\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005015\",\"state\":\"01\",\"create_date\":1594716748000,\"applicant_phone\":\"11111111111\",\"orgid\":111749,\"update_date\":1594719514000,\"occur_date\":\"2020-07-14 17:38:00\",\"applicant\":\"用户1\",\"creater\":\"115365\",\"category\":\"01\"}"
+      }
+    },
+    "url": "/appTaskRestService/getIncident",
+    "data": "id=2020071410005015"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1522501",
+            "bsid": "2020071410005015",
+            "biz_code": "SJ",
+            "cumulative": 23.15,
+            "userid": "115365",
+            "end_time_": "2020-07-14 17:38:34",
+            "duration_": "0",
+            "start_time_": "2020-07-14 17:38:34",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1522501"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"biz_code\":\"WT\",\"bsid\":\"2020071410004995\",\"create_date\":\"2020-07-14 09:01:55.0\",\"creater\":\"115365\",\"creatername\":\"用户1\",\"description\":\"asda\",\"flowId\":\"WT_142\",\"flowNodeId\":\"sid-76599F8C-BE02-4A8F-9443-20409204DAD3\",\"nodestate\":\"0\",\"orgid\":\"111749\",\"processInstanceId\":\"1507505\",\"progress\":\"0.334\",\"target_sys\":\"2020052210004131\",\"target_sys_name\":\"用户2的项目6\",\"taskId\":\"1507514\",\"taskName\":\"节点1\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"添加问题9:47\",\"urgency\":\"03\"},{\"biz_code\":\"SJ\",\"bsid\":\"2020011810003055\",\"create_date\":\"2020-01-18 15:42:31.0\",\"creater\":\"110271\",\"creatername\":\"用户3\",\"description\":\"<p>222</p>\",\"flowId\":\"SJTY\",\"flowNodeId\":\"sid-534123E7-194F-4732-BF23-FB392EE013F0\",\"nodestate\":\"1\",\"orgid\":\"110266\",\"previousNodeName\":\"任务分配\",\"previousUser\":\"111051\",\"processInstanceId\":\"1065001\",\"progress\":\"0.6\",\"target_sys\":\"2019101010001621\",\"target_sys_name\":\"指标管理系统\",\"taskId\":\"1065060\",\"taskName\":\"任务执行\",\"team_id\":\"597247d347ea4d73bd4880a77394f5fc\",\"title\":\"任务移交测试119\",\"urgency\":\"01\"},{\"biz_code\":\"SJ\",\"bsid\":\"2019121010002689\",\"create_date\":\"2019-12-10 13:24:20.0\",\"creater\":\"111051\",\"creatername\":\"用户4\",\"description\":\"<p>123</p>\",\"flowId\":\"SJTY\",\"flowNodeId\":\"sid-534123E7-194F-4732-BF23-FB392EE013F0\",\"nodestate\":\"0\",\"orgid\":\"110266\",\"previousNodeName\":\"任务分配\",\"previousUser\":\"111051\",\"processInstanceId\":\"942501\",\"progress\":\"0.6\",\"target_sys\":\"2019101010001621\",\"target_sys_name\":\"指标管理系统\",\"taskId\":\"942605\",\"taskName\":\"任务执行\",\"team_id\":\"76e9f03e005a455aa456c5824170f4ac\",\"title\":\"撤销测试1402\",\"urgency\":\"02\"},{\"biz_code\":\"SJ\",\"bsid\":\"2019110110001931\",\"create_date\":\"2019-11-01 14:42:05.0\",\"creater\":\"116478\",\"creatername\":\"用户2\",\"description\":\"<p>dasdsad&quot;\\\\n&quot;dasd\\\\nasdasd</p>\",\"flowId\":\"SJTY\",\"flowNodeId\":\"sid-534123E7-194F-4732-BF23-FB392EE013F0\",\"nodestate\":\"1\",\"orgid\":\"110266\",\"previousNodeName\":\"任务分配\",\"previousUser\":\"111051\",\"processInstanceId\":\"780001\",\"progress\":\"0.6\",\"target_sys\":\"2019101010001621\",\"target_sys_name\":\"指标管理系统\",\"taskId\":\"925127\",\"taskName\":\"任务执行\",\"team_id\":\"76e9f03e005a455aa456c5824170f4ac\",\"title\":\"测试s\",\"urgency\":\"01\"}]"
+      }
+    },
+    "url": "/appTaskRestService/queryWaitDeal",
+    "data": "start=11&end=20"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "[{\"app_menu_type\":\"1\",\"app_auth_type\":\"1\",\"icon_src\":\"1\",\"name\":\"事件登记\",\"icon\":\"1\",\"id\":\"2020011610002945\",\"url\":\"1\"},{\"app_menu_type\":\"2\",\"app_auth_type\":\"1\",\"icon_src\":\"1\",\"name\":\"事件统计\",\"icon\":\"1\",\"id\":\"2020011610002946\",\"url\":\"1\"},{\"app_menu_type\":\"1\",\"app_auth_type\":\"1\",\"icon_src\":\"1\",\"name\":\"问题登记\",\"icon\":\"1\",\"id\":\"2020011610002949\",\"url\":\"1\"},{\"app_menu_type\":\"1\",\"app_auth_type\":\"1\",\"icon_src\":\"1\",\"name\":\"变更登记\",\"icon\":\"1\",\"id\":\"2020011610002950\",\"url\":\"1\"},{\"app_menu_type\":\"1\",\"app_auth_type\":\"1\",\"name\":\"发布登记\",\"id\":\"2020011610002951\"},{\"app_menu_type\":\"2\",\"app_auth_type\":\"1\",\"icon_src\":\"1\",\"name\":\"问题统计\",\"icon\":\"1\",\"id\":\"2020011610002952\",\"url\":\"1\"},{\"app_menu_type\":\"2\",\"app_auth_type\":\"1\",\"name\":\"变更统计\",\"id\":\"2020011610002953\"},{\"app_menu_type\":\"2\",\"app_auth_type\":\"1\",\"name\":\"发布统计\",\"icon\":\"1\",\"id\":\"2020011610002954\"},{\"app_menu_type\":\"1\",\"pxh\":1,\"app_auth_type\":\"2\",\"app_business_type\":\"XB\",\"name\":\"下班测试流程\",\"id\":\"2020070710004595\"}]"
+      }
+    },
+    "url": "/appLoginRestService/queryUserAuthorityForApp",
+    "data": ""
+  },
+  {
+    "response": {
+      "data": {
+        "targetSysList": []
+      }
+    },
+    "url": "/appTaskRestService/getTargetSys",
+    "data": "team_id=597247d347ea4d73bd4880a77394f5fc"
+  },
+  {
+    "response": {
+      "data": {
+        "targetSysList": [
+          {
+            "name": "运维工单系统",
+            "id": "2019101010001620"
+          },
+          {
+            "name": "指标管理系统",
+            "id": "2019101010001621"
+          }
+        ]
+      }
+    },
+    "url": "/appTaskRestService/getTargetSys",
+    "data": "team_id=76e9f03e005a455aa456c5824170f4ac"
+  },
+  {
+    "response": {
+      "data": {
+        "targetSysList": []
+      }
+    },
+    "url": "/appTaskRestService/getTargetSys",
+    "data": "team_id=72eb6d6deea24f219db5969dc561ce07"
+  },
+  {
+    "response": {
+      "data": {
+        "dataMapStr": "{\"_$selectMap\":{\"2020070710004589\":[{\"name\":\"mysql\",\"id\":\"2019101210001726\"},{\"name\":\"orcale\",\"id\":\"2019101210001727\"}],\"urgency\":[{\"name\":\"非常紧急\",\"py\":\"fcjj\",\"id\":\"01\"},{\"name\":\"紧急\",\"py\":\"jj\",\"id\":\"02\"},{\"name\":\"普通\",\"py\":\"pt\",\"id\":\"03\"},{\"name\":\"一般\",\"py\":\"yb\",\"id\":\"04\"}],\"team_id\":[{\"name\":\"123团队\",\"id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\"}]},\"_$dataList\":[{\"pxh\":3,\"code\":\"SFXB003\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004591\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"文本域\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114420000,\"field_type\":\"textarea\"},{\"pxh\":1,\"code\":\"SFXB001\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"uuid\":\"2020070710004589\",\"is_required\":\"false\",\"is_code\":\"true\",\"name\":\"码值\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114383000},{\"pxh\":2,\"code\":\"SFXB002\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004590\",\"is_required\":\"true\",\"is_code\":\"false\",\"name\":\"文本\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114404000,\"field_type\":\"text\"},{\"pxh\":4,\"code\":\"SFXB004\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004592\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"数字\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114441000,\"field_type\":\"number\"},{\"pxh\":5,\"code\":\"SFXB005\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004593\",\"is_required\":\"true\",\"is_code\":\"false\",\"name\":\"日期\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114455000,\"field_type\":\"date\"},{\"pxh\":6,\"code\":\"SFXB006\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004594\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"时间\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114472000,\"field_type\":\"datetime\"}],\"biz_code\":\"XB\",\"suuid\":\"2020070710004588\",\"_$formData\":{\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"description\":\"12\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"uuid\":\"2020071510005038\",\"update_date\":1594800569000,\"updater\":\"115365\",\"2020070710004589\":\"2019101210001726\",\"urgency\":\"01\",\"ci_orgid\":\"111749\",\"name\":\"自定义16:06\",\"creater\":\"115365\",\"process_state\":\"07\",\"target_sys\":\"2020052210004131\",\"2020070710004590\":\"11\",\"2020070710004591\":\"22\",\"2020070710004592\":\"333\",\"create_date\":\"2020-07-15 00:00:00\",\"2020070710004593\":\"2020-07-15\",\"2020070710004594\":\"2020-07-15 16:06\"},\"ci\":\"2020070710004591,2020070710004589,2020070710004590,2020070710004592,2020070710004593,2020070710004594,\",\"buuid\":\"2020041410003619\",\"creater\":\"用户1\",\"id\":\"2020071510005038\",\"_$disabledIds\":[\"submit\",\"save\",\"att_btn\",\"reset_btn\",\"suuid\",\"buuid\",\"description\",\"project_code\",\"team_id\",\"uuid\",\"orgid\",\"update_date\",\"updater\",\"2020070710004589\",\"urgency\",\"ci_orgid\",\"name\",\"creater\",\"process_state\",\"target_sys\",\"2020070710004590\",\"2020070710004591\",\"state\",\"2020070710004592\",\"create_date\",\"2020070710004593\",\"2020070710004594\"]}"
+      }
+    },
+    "url": "/appCustomProcessRestService/getFieldFormList",
+    "data": "app_business_type=XB&id=2020071510005038"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1532544",
+            "bsid": "2020071510005038",
+            "biz_code": "XB",
+            "cumulative": 0.04,
+            "userid": "115365",
+            "end_time_": "2020-07-15 16:07:13",
+            "duration_": "0",
+            "start_time_": "2020-07-15 16:07:13",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          },
+          {
+            "processInstanceId": "1532544",
+            "bsid": "2020071510005038",
+            "biz_code": "XB",
+            "userid": "115365",
+            "end_time_": "2020-07-15 16:09:29",
+            "duration_": "0.04",
+            "start_time_": "2020-07-15 16:07:13",
+            "havForm": "0",
+            "nodename": "节点1",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "办结",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1532571"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1532544"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "[]"
+      }
+    },
+    "url": "/appAttachmentRestService/getAttachmentList",
+    "data": "business_id=2020071510005038&biz_code=XB"
+  },
+  {
+    "response": {
+      "data": {
+        "formData": {
+          "description": "<p>11111</p>",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "15:50",
+          "applicant_phone": "11111111111",
+          "orgid": 111749,
+          "update_date": "2020-07-15 16:00:33",
+          "updater": "110271",
+          "ck_description": "<p>11111</p>",
+          "occur_date": "2020-07-15 15:50:00",
+          "applicant": "用户1",
+          "incident_level": "03",
+          "orgname": "开发",
+          "urgency": "03",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052210004131",
+          "id": "2020071510005036",
+          "state": "05",
+          "create_date": "2020-07-15 15:04:47",
+          "category": "03"
+        }
+      }
+    },
+    "url": "/appTaskRestService/getFormData",
+    "data": "bsid=2020071510005036&biz_code=SJ&processInstanceId=1532514&nownodename=%E7%BB%93%E6%9E%9C%E7%A1%AE%E8%AE%A4"
+  },
+  {
+    "response": {
+      "data": {
+        "dataMapStr": "{\"_$selectMap\":{\"2020070710004589\":[{\"name\":\"mysql\",\"id\":\"2019101210001726\"},{\"name\":\"orcale\",\"id\":\"2019101210001727\"}],\"urgency\":[{\"name\":\"非常紧急\",\"py\":\"fcjj\",\"id\":\"01\"},{\"name\":\"紧急\",\"py\":\"jj\",\"id\":\"02\"},{\"name\":\"普通\",\"py\":\"pt\",\"id\":\"03\"},{\"name\":\"一般\",\"py\":\"yb\",\"id\":\"04\"}],\"team_id\":[{\"name\":\"123团队\",\"id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\"}]},\"_$dataList\":[{\"pxh\":3,\"code\":\"SFXB003\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004591\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"文本域\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114420000,\"field_type\":\"textarea\"},{\"pxh\":1,\"code\":\"SFXB001\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"uuid\":\"2020070710004589\",\"is_required\":\"false\",\"is_code\":\"true\",\"name\":\"码值\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114383000},{\"pxh\":2,\"code\":\"SFXB002\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004590\",\"is_required\":\"true\",\"is_code\":\"false\",\"name\":\"文本\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114404000,\"field_type\":\"text\"},{\"pxh\":4,\"code\":\"SFXB004\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004592\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"数字\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114441000,\"field_type\":\"number\"},{\"pxh\":5,\"code\":\"SFXB005\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004593\",\"is_required\":\"true\",\"is_code\":\"false\",\"name\":\"日期\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114455000,\"field_type\":\"date\"},{\"pxh\":6,\"code\":\"SFXB006\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004594\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"时间\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114472000,\"field_type\":\"datetime\"}],\"biz_code\":\"XB\",\"suuid\":\"2020070710004588\",\"_$formData\":{\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"description\":\"444\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"uuid\":\"2020071510005028\",\"update_date\":1594795401000,\"updater\":\"115365\",\"2020070710004589\":\"2019101210001726\",\"urgency\":\"01\",\"ci_orgid\":\"111749\",\"name\":\"自定义14:25\",\"creater\":\"115365\",\"process_state\":\"07\",\"target_sys\":\"2020052210004131\",\"2020070710004590\":\"111\",\"2020070710004591\":\"222\",\"2020070710004592\":\"3333\",\"create_date\":\"2020-07-15 00:00:00\",\"2020070710004593\":\"2020-07-15\",\"2020070710004594\":\"2020-07-15 14:25\"},\"ci\":\"2020070710004591,2020070710004589,2020070710004590,2020070710004592,2020070710004593,2020070710004594,\",\"buuid\":\"2020041410003619\",\"creater\":\"用户1\",\"id\":\"2020071510005028\",\"_$disabledIds\":[\"submit\",\"save\",\"att_btn\",\"reset_btn\",\"suuid\",\"buuid\",\"description\",\"project_code\",\"team_id\",\"uuid\",\"orgid\",\"update_date\",\"updater\",\"2020070710004589\",\"urgency\",\"ci_orgid\",\"name\",\"creater\",\"process_state\",\"target_sys\",\"2020070710004590\",\"2020070710004591\",\"state\",\"2020070710004592\",\"create_date\",\"2020070710004593\",\"2020070710004594\"]}"
+      }
+    },
+    "url": "/appCustomProcessRestService/getFieldFormList",
+    "data": "app_business_type=XB&id=2020071510005028"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1530035",
+            "bsid": "2020071510005028",
+            "biz_code": "XB",
+            "cumulative": 0.29,
+            "userid": "115365",
+            "end_time_": "2020-07-15 14:26:02",
+            "duration_": "0",
+            "start_time_": "2020-07-15 14:26:02",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          },
+          {
+            "processInstanceId": "1530035",
+            "bsid": "2020071510005028",
+            "biz_code": "XB",
+            "userid": "115365",
+            "end_time_": "2020-07-15 14:43:21",
+            "duration_": "0.29",
+            "start_time_": "2020-07-15 14:26:02",
+            "havForm": "0",
+            "nodename": "节点1",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意1",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1530062"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1530035"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "[]"
+      }
+    },
+    "url": "/appAttachmentRestService/getAttachmentList",
+    "data": "business_id=2020071510005028&biz_code=XB"
+  },
+  {
+    "response": {
+      "data": {
+        "formData": {
+          "description": "<p>11111</p>",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "14:03",
+          "applicant_phone": "11111111111",
+          "orgid": 111749,
+          "update_date": "2020-07-15 14:04:55",
+          "updater": "110271",
+          "ck_description": "<p>11111</p>",
+          "occur_date": "2020-07-15 14:03:00",
+          "applicant": "用户1",
+          "incident_level": "01",
+          "orgname": "开发",
+          "urgency": "01",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052210004131",
+          "id": "2020071510005027",
+          "state": "06",
+          "create_date": "2020-07-15 13:17:28",
+          "category": "01"
+        }
+      }
+    },
+    "url": "/appTaskRestService/getFormData",
+    "data": "bsid=2020071510005027&biz_code=SJ&processInstanceId=1530001&nownodename=%E7%BB%93%E6%9D%9F"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentData": "{\"is_view\":\"1\",\"description\":\"<p>11111</p>\",\"source\":\"01\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"14:03\",\"updater\":\"110271\",\"ck_description\":\"<p>11111</p>\",\"incident_level\":\"01\",\"orgname\":\"开发\",\"urgency\":\"01\",\"is_draft\":\"0\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071510005027\",\"state\":\"06\",\"create_date\":1594790248000,\"applicant_phone\":\"11111111111\",\"orgid\":111749,\"update_date\":1594793095000,\"occur_date\":\"2020-07-15 14:03:00\",\"applicant\":\"用户1\",\"creater\":\"115365\",\"category\":\"01\"}"
+      }
+    },
+    "url": "/appTaskRestService/getIncident",
+    "data": "id=2020071510005027"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1530001",
+            "bsid": "2020071510005027",
+            "biz_code": "SJ",
+            "cumulative": 0.02,
+            "userid": "115365",
+            "end_time_": "2020-07-15 14:03:35",
+            "duration_": "0",
+            "start_time_": "2020-07-15 14:03:35",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          },
+          {
+            "processInstanceId": "1530001",
+            "bsid": "2020071510005027",
+            "biz_code": "SJ",
+            "userid": "115365",
+            "end_time_": "2020-07-15 14:03:59",
+            "duration_": "0.01",
+            "start_time_": "2020-07-15 14:03:35",
+            "havForm": "0",
+            "nodename": "审批",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "gongql去做",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1530010"
+          },
+          {
+            "processInstanceId": "1530001",
+            "bsid": "2020071510005027",
+            "biz_code": "SJ",
+            "userid": "110271",
+            "end_time_": "2020-07-15 14:04:35",
+            "duration_": "0.01",
+            "start_time_": "2020-07-15 14:03:59",
+            "havForm": "0",
+            "nodename": "节点1",
+            "nodestate": "2",
+            "name": "用户3",
+            "opinions": "1",
+            "orgnamepath": "平台开发部",
+            "taskId": "1530020"
+          },
+          {
+            "processInstanceId": "1530001",
+            "bsid": "2020071510005027",
+            "biz_code": "SJ",
+            "userid": "110271",
+            "end_time_": "2020-07-15 14:04:54",
+            "duration_": "0.01",
+            "start_time_": "2020-07-15 14:04:35",
+            "havForm": "0",
+            "nodename": "结果确认",
+            "nodestate": "2",
+            "name": "用户3",
+            "opinions": "2",
+            "orgnamepath": "平台开发部",
+            "taskId": "1530028"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1530001"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"bsid\":\"2020071410005007\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"13:34\",\"proc_inst_id_\":\"1515001\",\"end_time_\":1594706775243,\"update_date\":\"2020-07-14 14:06:15\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005007\",\"state\":\"06\",\"rn\":11,\"create_date\":1594702125000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410005006\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:34\",\"proc_inst_id_\":\"1512581\",\"end_time_\":1594698037527,\"update_date\":\"2020-07-14 11:41:11\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005006\",\"state\":\"06\",\"rn\":12,\"create_date\":1594694915000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410005005\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:28\",\"proc_inst_id_\":\"1512523\",\"end_time_\":1594697586378,\"update_date\":\"2020-07-14 11:33:41\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005005\",\"state\":\"06\",\"rn\":13,\"create_date\":1594694567000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410005004\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:12\",\"proc_inst_id_\":\"1510062\",\"end_time_\":1594697235561,\"update_date\":\"2020-07-14 11:27:16\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005004\",\"state\":\"06\",\"rn\":14,\"create_date\":1594693619000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410005003\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:08\",\"proc_inst_id_\":\"1510004\",\"end_time_\":1594696315434,\"update_date\":\"2020-07-14 11:11:55\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005003\",\"state\":\"06\",\"rn\":15,\"create_date\":1594693397000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410005002\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:50\",\"proc_inst_id_\":\"1507797\",\"end_time_\":1594696113356,\"update_date\":\"2020-07-14 11:08:34\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005002\",\"state\":\"06\",\"rn\":16,\"create_date\":1594692296000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410004999\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:08\",\"proc_inst_id_\":\"1507670\",\"end_time_\":1594694787458,\"update_date\":\"2020-07-14 10:46:45\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410004999\",\"state\":\"06\",\"rn\":17,\"create_date\":1594689748000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410004998\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"问题等级10:00\",\"proc_inst_id_\":\"1507610\",\"end_time_\":1594692463202,\"update_date\":\"2020-07-14 10:07:44\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410004998\",\"state\":\"06\",\"rn\":18,\"create_date\":1594689267000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071410004997\",\"biz_code\":\"WT\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"问题9:53\",\"proc_inst_id_\":\"1507575\",\"end_time_\":1594694941632,\"update_date\":\"2020-07-14 10:49:02\",\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410004997\",\"state\":\"06\",\"rn\":19,\"create_date\":1594688849000,\"category\":\"01\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"},{\"bsid\":\"2020071010004918\",\"biz_code\":\"SJ\",\"nownodename\":\"结束\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"测试sssssssssssssssss\",\"proc_inst_id_\":\"1497529\",\"end_time_\":1594631931684,\"update_date\":\"2020-07-13 17:18:52\",\"updater\":\"115365\",\"urgency\":\"03\",\"creater\":\"147939\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071010004918\",\"state\":\"06\",\"rn\":20,\"create_date\":1594369756000,\"category\":\"02\",\"creatername\":\"用户1\",\"assignee_\":\"115365\"}]"
+      }
+    },
+    "url": "/appTaskRestService/getMyDeal",
+    "data": "start=11&end=20"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"bsid\":\"2019120410002660\",\"biz_code\":\"SJ\",\"nownodename\":\"领导审批\",\"team_id\":\"597247d347ea4d73bd4880a77394f5fc\",\"title\":\"事件分配\",\"proc_inst_id_\":\"925001\",\"update_date\":\"2020-04-13 09:50:17\",\"updater\":\"1\",\"urgency\":\"01\",\"creater\":\"110271\",\"target_sys_name\":\"指标管理系统\",\"target_sys\":\"2019101010001621\",\"id\":\"2019120410002660\",\"state\":\"01\",\"rn\":21,\"create_date\":1575423041000,\"category\":\"01\",\"creatername\":\"用户3\",\"assignee_\":\"115365\"}]"
+      }
+    },
+    "url": "/appTaskRestService/getMyDeal",
+    "data": "start=21&end=30"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[{\"bsid\":\"2020071410005002\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:50\",\"proc_inst_id_\":\"1507797\",\"end_time_\":1594696113356,\"update_date\":\"2020-07-14 11:08:34\",\"start_time_\":1594695069479,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005002\",\"state\":\"06\",\"rn\":11,\"create_date\":1594692296000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410004999\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:08\",\"proc_inst_id_\":\"1507670\",\"end_time_\":1594694787458,\"update_date\":\"2020-07-14 10:46:45\",\"start_time_\":1594692513283,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410004999\",\"state\":\"06\",\"rn\":12,\"create_date\":1594689748000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410004998\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"问题等级10:00\",\"proc_inst_id_\":\"1507610\",\"end_time_\":1594692463202,\"update_date\":\"2020-07-14 10:07:44\",\"start_time_\":1594692032294,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410004998\",\"state\":\"06\",\"rn\":13,\"create_date\":1594689267000,\"category\":\"01\",\"creatername\":\"用户1\"},{\"bsid\":\"2020071410004997\",\"biz_code\":\"WT\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"问题9:53\",\"proc_inst_id_\":\"1507575\",\"end_time_\":1594694941632,\"update_date\":\"2020-07-14 10:49:02\",\"start_time_\":1594691614862,\"updater\":\"115365\",\"urgency\":\"01\",\"creater\":\"115365\",\"target_sys_name\":\"用户2的项目6\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410004997\",\"state\":\"06\",\"rn\":14,\"create_date\":1594688849000,\"category\":\"01\",\"creatername\":\"用户1\"}]"
+      }
+    },
+    "url": "/appTaskRestService/queryEndByMe",
+    "data": "start=11&end=20"
+  },
+  {
+    "response": {
+      "data": {
+        "Task": "[]"
+      }
+    },
+    "url": "/appTaskRestService/queryDraft",
+    "data": "start=11&end=20"
+  },
+  {
+    "response": {
+      "data": {
+        "formData": {
+          "description": "<p>11111</p>",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "14:03",
+          "applicant_phone": "11111111111",
+          "orgid": 111749,
+          "update_date": "2020-07-15 14:04:55",
+          "updater": "110271",
+          "ck_description": "<p>11111</p>",
+          "occur_date": "2020-07-15 14:03:00",
+          "applicant": "用户1",
+          "incident_level": "01",
+          "orgname": "开发",
+          "urgency": "01",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052210004131",
+          "id": "2020071510005027",
+          "state": "06",
+          "create_date": "2020-07-15 13:17:28",
+          "category": "01"
+        }
+      }
+    },
+    "url": "/appTaskRestService/getFormData",
+    "data": "bsid=2020071510005027&biz_code=SJ&processInstanceId=1530001"
+  },
+  {
+    "response": {
+      "data": {
+        "formData": {
+          "description": "<p>asd</p>",
+          "source": "01",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "17:44",
+          "applicant_phone": "11111111111",
+          "orgid": 111749,
+          "update_date": "2020-07-14 17:46:20",
+          "updater": "115365",
+          "ck_description": "<p>asd</p>",
+          "occur_date": "2020-07-14 17:44:00",
+          "applicant": "用户1",
+          "incident_level": "01",
+          "orgname": "开发",
+          "urgency": "01",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052210004131",
+          "id": "2020071410005016",
+          "state": "06",
+          "create_date": "2020-07-14 16:59:08",
+          "category": "01"
+        }
+      }
+    },
+    "url": "/appTaskRestService/getFormData",
+    "data": "bsid=2020071410005016&biz_code=SJ&processInstanceId=1522522"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentData": "{\"is_view\":\"1\",\"description\":\"<p>asd</p>\",\"source\":\"01\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"17:44\",\"updater\":\"115365\",\"ck_description\":\"<p>asd</p>\",\"incident_level\":\"01\",\"orgname\":\"开发\",\"urgency\":\"01\",\"is_draft\":\"0\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005016\",\"state\":\"06\",\"create_date\":1594717148000,\"applicant_phone\":\"11111111111\",\"orgid\":111749,\"update_date\":1594719980000,\"occur_date\":\"2020-07-14 17:44:00\",\"applicant\":\"用户1\",\"creater\":\"115365\",\"category\":\"01\"}"
+      }
+    },
+    "url": "/appTaskRestService/getIncident",
+    "data": "id=2020071410005016"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1522522",
+            "bsid": "2020071410005016",
+            "biz_code": "SJ",
+            "cumulative": 0.02,
+            "userid": "115365",
+            "end_time_": "2020-07-14 17:45:14",
+            "duration_": "0",
+            "start_time_": "2020-07-14 17:45:14",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          },
+          {
+            "processInstanceId": "1522522",
+            "bsid": "2020071410005016",
+            "biz_code": "SJ",
+            "userid": "115365",
+            "end_time_": "2020-07-14 17:45:46",
+            "duration_": "0.01",
+            "start_time_": "2020-07-14 17:45:14",
+            "havForm": "0",
+            "nodename": "审批",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "1",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1522531"
+          },
+          {
+            "processInstanceId": "1522522",
+            "bsid": "2020071410005016",
+            "biz_code": "SJ",
+            "userid": "115365",
+            "end_time_": "2020-07-14 17:46:04",
+            "duration_": "0",
+            "start_time_": "2020-07-14 17:45:46",
+            "havForm": "0",
+            "nodename": "节点1",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "2",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1522541"
+          },
+          {
+            "processInstanceId": "1522522",
+            "bsid": "2020071410005016",
+            "biz_code": "SJ",
+            "userid": "115365",
+            "end_time_": "2020-07-14 17:46:19",
+            "duration_": "0",
+            "start_time_": "2020-07-14 17:46:04",
+            "havForm": "0",
+            "nodename": "结果确认",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "3",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1522549"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1522522"
+  },
+  {
+    "response": {
+      "data": {
+        "formData": {
+          "description": "<p>11</p>",
+          "source": "02",
+          "team_id": "4a9ae5f22fc44ce19b332eeb5ca958e6",
+          "title": "13:36",
+          "orgid": 111749,
+          "update_date": "2020-07-14 13:39:16",
+          "registe_date": "2020-07-14 13:36:00",
+          "updater": "115365",
+          "ck_description": "<p>11</p>",
+          "orgname": "开发",
+          "urgency": "01",
+          "is_draft": "0",
+          "creater": "115365",
+          "target_sys": "2020052210004131",
+          "id": "2020071410005008",
+          "state": "06",
+          "registe_phone": "11111111111",
+          "create_date": "2020-07-14 12:51:12",
+          "category": "01",
+          "register": "用户1"
+        }
+      }
+    },
+    "url": "/appTaskRestService/getFormData",
+    "data": "bsid=2020071410005008&biz_code=WT&processInstanceId=1515036"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentLevelList": [
+          {
+            "name": "一级：业务无法正常办理",
+            "py": "yj：ywwfzcbl",
+            "id": "01"
+          },
+          {
+            "name": "二级：严重影响业务办理",
+            "py": "ej：yzyxywbl",
+            "id": "02"
+          },
+          {
+            "name": "三级：轻微影响业务办理",
+            "py": "sj：qwyxywbl",
+            "id": "03"
+          },
+          {
+            "name": "四级：不影响业务办理",
+            "py": "sj：byxywbl",
+            "id": "04"
+          }
+        ],
+        "urgencyList": [
+          {
+            "name": "非常紧急",
+            "py": "fcjj",
+            "id": "01"
+          },
+          {
+            "name": "紧急",
+            "py": "jj",
+            "id": "02"
+          },
+          {
+            "name": "普通",
+            "py": "pt",
+            "id": "03"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "04"
+          }
+        ],
+        "categoryList": [
+          {
+            "name": "程序BUG修改",
+            "py": "cxBUGxg",
+            "id": "01"
+          },
+          {
+            "name": "功能调整",
+            "py": "gndz",
+            "id": "02"
+          },
+          {
+            "name": "新增功能及需求",
+            "py": "xzgnjxq",
+            "id": "03"
+          },
+          {
+            "name": "数据统计",
+            "py": "sjtj",
+            "id": "04"
+          },
+          {
+            "name": "一般数据维护：普通的数据维护",
+            "py": "ybsjwh：ptdsjwh",
+            "id": "05"
+          },
+          {
+            "name": "特殊数据维护：重要的，权限级别高的数据",
+            "py": "tssjwh：zyd，qxjbgdsj",
+            "id": "06"
+          },
+          {
+            "name": "数据回退",
+            "py": "sjht",
+            "id": "07"
+          },
+          {
+            "name": "系统故障",
+            "py": "xtgz",
+            "id": "08"
+          },
+          {
+            "name": "网络故障",
+            "py": "wlgz",
+            "id": "09"
+          },
+          {
+            "name": "解释工作",
+            "py": "jsgz",
+            "id": "10"
+          },
+          {
+            "name": "其他",
+            "py": "qt",
+            "id": "11"
+          }
+        ],
+        "originList": [
+          {
+            "effective": "1",
+            "orgidpath": "1/110266/111749",
+            "orgname": "开发",
+            "name": "开发",
+            "pid": 110266,
+            "id": 111749,
+            "orgnamepath": "平台开发部/开发",
+            "isleaf": "1",
+            "orgid": 111749,
+            "porgid": 110266
+          }
+        ],
+        "teamList": [
+          {
+            "name": "公共业务组",
+            "id": "597247d347ea4d73bd4880a77394f5fc"
+          },
+          {
+            "name": "四险待遇组",
+            "id": "76e9f03e005a455aa456c5824170f4ac"
+          },
+          {
+            "name": "123团队",
+            "id": "4a9ae5f22fc44ce19b332eeb5ca958e6"
+          },
+          {
+            "name": "温江区",
+            "id": "72eb6d6deea24f219db5969dc561ce07"
+          }
+        ],
+        "occurFrequencyList": [
+          {
+            "name": "低",
+            "py": "d",
+            "id": "01"
+          },
+          {
+            "name": "中",
+            "py": "z",
+            "id": "02"
+          },
+          {
+            "name": "高",
+            "py": "g",
+            "id": "03"
+          }
+        ],
+        "userid": 115365,
+        "problemSource": [
+          {
+            "name": "事件管理",
+            "py": "sjgl",
+            "id": "01"
+          },
+          {
+            "name": "问题创建",
+            "py": "wtcj",
+            "id": "02"
+          }
+        ],
+        "username": "用户1"
+      }
+    },
+    "url": "/appProblemRestService/getProblemBasicInfo",
+    "data": ""
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"is_view\":\"1\",\"description\":\"<p>11</p>\",\"source\":\"02\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"13:36\",\"registe_date\":\"2020-07-14 13:36:00\",\"updater\":\"115365\",\"ck_description\":\"<p>11</p>\",\"urgency\":\"01\",\"is_draft\":\"0\",\"target_sys\":\"2020052210004131\",\"id\":\"2020071410005008\",\"state\":\"06\",\"create_date\":1594702272000,\"orgid\":111749,\"update_date\":1594705156000,\"creater\":\"115365\",\"registe_phone\":\"11111111111\",\"category\":\"01\",\"register\":\"用户1\"}"
+      }
+    },
+    "url": "/appProblemRestService/getProblem",
+    "data": "id=2020071410005008"
+  },
+  {
+    "response": {
+      "data": {
+        "taskHistory": [
+          {
+            "processInstanceId": "1515036",
+            "bsid": "2020071410005008",
+            "biz_code": "WT",
+            "cumulative": 0.02,
+            "userid": "115365",
+            "end_time_": "2020-07-14 13:37:17",
+            "duration_": "0",
+            "start_time_": "2020-07-14 13:37:17",
+            "havForm": "0",
+            "nodename": "发起",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "同意",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "0"
+          },
+          {
+            "processInstanceId": "1515036",
+            "bsid": "2020071410005008",
+            "biz_code": "WT",
+            "userid": "115365",
+            "end_time_": "2020-07-14 13:38:11",
+            "duration_": "0.02",
+            "start_time_": "2020-07-14 13:37:17",
+            "havForm": "0",
+            "nodename": "节点1",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "13:38",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1515045"
+          },
+          {
+            "processInstanceId": "1515036",
+            "bsid": "2020071410005008",
+            "biz_code": "WT",
+            "userid": "115365",
+            "end_time_": "2020-07-14 13:38:39",
+            "duration_": "0.01",
+            "start_time_": "2020-07-14 13:38:11",
+            "havForm": "0",
+            "nodename": "节点2",
+            "nodestate": "2",
+            "name": "用户1",
+            "opinions": "13:39",
+            "orgnamepath": "平台开发部/开发",
+            "taskId": "1515076"
+          }
+        ]
+      }
+    },
+    "url": "/appCustomProcessRestService/getHistory",
+    "data": "processInstanceid=1515036"
+  },
+  {
+    "response": {
+      "data": {
+        "urgencyList": [
+          {
+            "name": "非常紧急",
+            "py": "fcjj",
+            "id": "01"
+          },
+          {
+            "name": "紧急",
+            "py": "jj",
+            "id": "02"
+          },
+          {
+            "name": "普通",
+            "py": "pt",
+            "id": "03"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "04"
+          }
+        ],
+        "categoryList": [
+          {
+            "name": "程序BUG修改",
+            "py": "cxBUGxg",
+            "id": "01"
+          },
+          {
+            "name": "功能调整",
+            "py": "gndz",
+            "id": "02"
+          },
+          {
+            "name": "新增功能及需求",
+            "py": "xzgnjxq",
+            "id": "03"
+          },
+          {
+            "name": "数据统计",
+            "py": "sjtj",
+            "id": "04"
+          },
+          {
+            "name": "一般数据维护：普通的数据维护",
+            "py": "ybsjwh：ptdsjwh",
+            "id": "05"
+          },
+          {
+            "name": "特殊数据维护：重要的，权限级别高的数据",
+            "py": "tssjwh：zyd，qxjbgdsj",
+            "id": "06"
+          },
+          {
+            "name": "数据回退",
+            "py": "sjht",
+            "id": "07"
+          },
+          {
+            "name": "系统故障",
+            "py": "xtgz",
+            "id": "08"
+          },
+          {
+            "name": "网络故障",
+            "py": "wlgz",
+            "id": "09"
+          },
+          {
+            "name": "解释工作",
+            "py": "jsgz",
+            "id": "10"
+          },
+          {
+            "name": "其他",
+            "py": "qt",
+            "id": "11"
+          }
+        ],
+        "originList": [
+          {
+            "effective": "1",
+            "orgidpath": "1/110266/111749",
+            "orgname": "开发",
+            "name": "开发",
+            "pid": 110266,
+            "id": 111749,
+            "orgnamepath": "平台开发部/开发",
+            "isleaf": "1",
+            "orgid": 111749,
+            "porgid": 110266
+          }
+        ],
+        "teamList": [
+          {
+            "name": "公共业务组",
+            "id": "597247d347ea4d73bd4880a77394f5fc"
+          },
+          {
+            "name": "四险待遇组",
+            "id": "76e9f03e005a455aa456c5824170f4ac"
+          },
+          {
+            "name": "123团队",
+            "id": "4a9ae5f22fc44ce19b332eeb5ca958e6"
+          },
+          {
+            "name": "温江区",
+            "id": "72eb6d6deea24f219db5969dc561ce07"
+          }
+        ],
+        "userid": 115365,
+        "username": "用户1",
+        "changeTypeList": [
+          {
+            "name": "标准变更",
+            "py": "bzbg",
+            "id": "01"
+          },
+          {
+            "name": "紧急变更",
+            "py": "jjbg",
+            "id": "02"
+          },
+          {
+            "name": "重大变更",
+            "py": "zdbg",
+            "id": "03"
+          }
+        ]
+      }
+    },
+    "url": "/appReleaseRestService/getReleaseBasicInfo",
+    "data": ""
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"is_view\":\"1\",\"description\":\"333\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:15\",\"ck_description\":\"333\",\"urgency\":\"01\",\"is_draft\":\"1\",\"release_user\":\"用户1\",\"target_sys\":\"2020052010004082\",\"release_obj_list\":[],\"id\":\"2020071510005022\",\"state\":\"00\",\"no_release_obj_list\":[{\"change_type\":\"02\",\"source\":\"03\",\"team_id\":\"72eb6d6deea24f219db5969dc561ce07\",\"title\":\"123123\",\"urgency\":\"01\",\"is_draft\":\"0\",\"target_sys\":\"2020052010004082\",\"effect_scope\":\"测色\",\"id\":\"2020061810004445\",\"change_desc\":\"213\",\"state\":\"01\",\"is_release\":\"1\",\"create_date\":1592464446000,\"applicant_phone\":\"111\",\"release_state\":\"0\",\"orgid\":110266,\"applicant\":\"用户3\",\"change_id\":\"2020061810004445\",\"change_plan\":\"1\",\"creater\":\"110271\",\"category\":\"01\"}],\"create_date\":1594780178000,\"orgid\":111749,\"package_version\":\"222\",\"release_date\":\"2020-07-15 11:15:25\",\"package_name\":\"111\",\"creater\":\"115365\",\"target_server\":\"192.168.10.1:8081&#x3b;192.168.10.1:8082\"}"
+      }
+    },
+    "url": "/appReleaseRestService/getRelease",
+    "data": "id=2020071510005022"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"is_view\":\"1\",\"description\":\"33\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"11:14\",\"ck_description\":\"33\",\"urgency\":\"01\",\"is_draft\":\"1\",\"release_user\":\"用户1\",\"target_sys\":\"2020052210004131\",\"release_obj_list\":[],\"id\":\"2020071510005021\",\"state\":\"00\",\"no_release_obj_list\":[],\"create_date\":1594780095000,\"orgid\":111749,\"package_version\":\"22\",\"release_date\":\"2020-07-15 11:14:00\",\"package_name\":\"11\",\"creater\":\"115365\",\"target_server\":\"192.168.10.1:8081;192.168.10.1:8082\"}"
+      }
+    },
+    "url": "/appReleaseRestService/getRelease",
+    "data": "id=2020071510005021"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"is_view\":\"1\",\"description\":\"333\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"10:28\",\"ck_description\":\"333\",\"urgency\":\"01\",\"is_draft\":\"1\",\"release_user\":\"用户1\",\"target_sys\":\"2020052010004082\",\"release_obj_list\":[],\"id\":\"2020071510005020\",\"state\":\"00\",\"no_release_obj_list\":[{\"change_type\":\"02\",\"source\":\"03\",\"team_id\":\"72eb6d6deea24f219db5969dc561ce07\",\"title\":\"123123\",\"urgency\":\"01\",\"is_draft\":\"0\",\"target_sys\":\"2020052010004082\",\"effect_scope\":\"测色\",\"id\":\"2020061810004445\",\"change_desc\":\"213\",\"state\":\"01\",\"is_release\":\"1\",\"create_date\":1592464446000,\"applicant_phone\":\"111\",\"release_state\":\"0\",\"orgid\":110266,\"applicant\":\"用户3\",\"change_id\":\"2020061810004445\",\"change_plan\":\"1\",\"creater\":\"110271\",\"category\":\"01\"}],\"create_date\":1594777394000,\"orgid\":111749,\"package_version\":\"222\",\"release_date\":\"2020-07-15 10:28:47\",\"package_name\":\"111\",\"creater\":\"115365\",\"target_server\":\"192.168.10.1:8081&#x3b;192.168.10.1:8082\"}"
+      }
+    },
+    "url": "/appReleaseRestService/getRelease",
+    "data": "id=2020071510005020"
+  },
+  {
+    "response": {
+      "data": {
+        "incidentData": "{\"is_view\":\"1\",\"description\":\"111\",\"source\":\"01\",\"team_id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\",\"title\":\"17:05\",\"ck_description\":\"111\",\"incident_level\":\"03\",\"orgname\":\"开发\",\"urgency\":\"03\",\"is_draft\":\"1\",\"target_sys\":\"2020052010004088\",\"id\":\"2020071410005014\",\"state\":\"00\",\"create_date\":1594714764000,\"applicant_phone\":\"123123123123\",\"orgid\":111749,\"occur_date\":\"2020-07-14 17:03:34\",\"applicant\":\"用户1\",\"creater\":\"115365\",\"category\":\"01\"}"
+      }
+    },
+    "url": "/appTaskRestService/getIncident",
+    "data": "id=2020071410005014"
+  },
+  {
+    "response": {
+      "data": {
+        "changeSource": [
+          {
+            "name": "事件管理",
+            "py": "sjgl",
+            "id": "01"
+          },
+          {
+            "name": "问题管理",
+            "py": "wtgl",
+            "id": "02"
+          },
+          {
+            "name": "变更创建",
+            "py": "bgcj",
+            "id": "03"
+          }
+        ],
+        "incidentLevelList": [
+          {
+            "name": "一级：业务无法正常办理",
+            "py": "yj：ywwfzcbl",
+            "id": "01"
+          },
+          {
+            "name": "二级：严重影响业务办理",
+            "py": "ej：yzyxywbl",
+            "id": "02"
+          },
+          {
+            "name": "三级：轻微影响业务办理",
+            "py": "sj：qwyxywbl",
+            "id": "03"
+          },
+          {
+            "name": "四级：不影响业务办理",
+            "py": "sj：byxywbl",
+            "id": "04"
+          }
+        ],
+        "urgencyList": [
+          {
+            "name": "非常紧急",
+            "py": "fcjj",
+            "id": "01"
+          },
+          {
+            "name": "紧急",
+            "py": "jj",
+            "id": "02"
+          },
+          {
+            "name": "普通",
+            "py": "pt",
+            "id": "03"
+          },
+          {
+            "name": "一般",
+            "py": "yb",
+            "id": "04"
+          }
+        ],
+        "categoryList": [
+          {
+            "name": "程序BUG修改",
+            "py": "cxBUGxg",
+            "id": "01"
+          },
+          {
+            "name": "功能调整",
+            "py": "gndz",
+            "id": "02"
+          },
+          {
+            "name": "新增功能及需求",
+            "py": "xzgnjxq",
+            "id": "03"
+          },
+          {
+            "name": "数据统计",
+            "py": "sjtj",
+            "id": "04"
+          },
+          {
+            "name": "一般数据维护：普通的数据维护",
+            "py": "ybsjwh：ptdsjwh",
+            "id": "05"
+          },
+          {
+            "name": "特殊数据维护：重要的，权限级别高的数据",
+            "py": "tssjwh：zyd，qxjbgdsj",
+            "id": "06"
+          },
+          {
+            "name": "数据回退",
+            "py": "sjht",
+            "id": "07"
+          },
+          {
+            "name": "系统故障",
+            "py": "xtgz",
+            "id": "08"
+          },
+          {
+            "name": "网络故障",
+            "py": "wlgz",
+            "id": "09"
+          },
+          {
+            "name": "解释工作",
+            "py": "jsgz",
+            "id": "10"
+          },
+          {
+            "name": "其他",
+            "py": "qt",
+            "id": "11"
+          }
+        ],
+        "originList": [
+          {
+            "effective": "1",
+            "orgidpath": "1/110266/111749",
+            "orgname": "开发",
+            "name": "开发",
+            "pid": 110266,
+            "id": 111749,
+            "orgnamepath": "平台开发部/开发",
+            "isleaf": "1",
+            "orgid": 111749,
+            "porgid": 110266
+          }
+        ],
+        "teamList": [
+          {
+            "name": "公共业务组",
+            "id": "597247d347ea4d73bd4880a77394f5fc"
+          },
+          {
+            "name": "四险待遇组",
+            "id": "76e9f03e005a455aa456c5824170f4ac"
+          },
+          {
+            "name": "123团队",
+            "id": "4a9ae5f22fc44ce19b332eeb5ca958e6"
+          },
+          {
+            "name": "温江区",
+            "id": "72eb6d6deea24f219db5969dc561ce07"
+          }
+        ],
+        "userid": 115365,
+        "problemSource": [
+          {
+            "name": "事件管理",
+            "py": "sjgl",
+            "id": "01"
+          },
+          {
+            "name": "问题创建",
+            "py": "wtcj",
+            "id": "02"
+          }
+        ],
+        "username": "用户1",
+        "changeTypeList": [
+          {
+            "name": "标准变更",
+            "py": "bzbg",
+            "id": "01"
+          },
+          {
+            "name": "紧急变更",
+            "py": "jjbg",
+            "id": "02"
+          },
+          {
+            "name": "重大变更",
+            "py": "zdbg",
+            "id": "03"
+          }
+        ]
+      }
+    },
+    "url": "/appChangeRestService/getChangeBasicInfo",
+    "data": ""
+  },
+  {
+    "response": {
+      "data": {
+        "dataMapStr": "{\"_$selectMap\":{\"2020070710004589\":[{\"name\":\"mysql\",\"id\":\"2019101210001726\"},{\"name\":\"orcale\",\"id\":\"2019101210001727\"}],\"urgency\":[{\"name\":\"非常紧急\",\"py\":\"fcjj\",\"id\":\"01\"},{\"name\":\"紧急\",\"py\":\"jj\",\"id\":\"02\"},{\"name\":\"普通\",\"py\":\"pt\",\"id\":\"03\"},{\"name\":\"一般\",\"py\":\"yb\",\"id\":\"04\"}],\"team_id\":[{\"name\":\"公共业务组\",\"id\":\"597247d347ea4d73bd4880a77394f5fc\"},{\"name\":\"四险待遇组\",\"id\":\"76e9f03e005a455aa456c5824170f4ac\"},{\"name\":\"123团队\",\"id\":\"4a9ae5f22fc44ce19b332eeb5ca958e6\"},{\"name\":\"温江区\",\"id\":\"72eb6d6deea24f219db5969dc561ce07\"}]},\"_$dataList\":[{\"pxh\":3,\"code\":\"SFXB003\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004591\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"文本域\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114420000,\"field_type\":\"textarea\"},{\"pxh\":1,\"code\":\"SFXB001\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"uuid\":\"2020070710004589\",\"is_required\":\"false\",\"is_code\":\"true\",\"name\":\"码值\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114383000},{\"pxh\":2,\"code\":\"SFXB002\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004590\",\"is_required\":\"true\",\"is_code\":\"false\",\"name\":\"文本\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114404000,\"field_type\":\"text\"},{\"pxh\":4,\"code\":\"SFXB004\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004592\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"数字\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114441000,\"field_type\":\"number\"},{\"pxh\":5,\"code\":\"SFXB005\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004593\",\"is_required\":\"true\",\"is_code\":\"false\",\"name\":\"日期\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114455000,\"field_type\":\"date\"},{\"pxh\":6,\"code\":\"SFXB006\",\"suuid\":\"2020070710004588\",\"buuid\":\"2020041410003619\",\"field_length\":20,\"uuid\":\"2020070710004594\",\"is_required\":\"false\",\"is_code\":\"false\",\"name\":\"时间\",\"creater\":\"141787\",\"state\":\"1\",\"create_date\":1594114472000,\"field_type\":\"datetime\"}],\"biz_code\":\"XB\",\"suuid\":\"2020070710004588\",\"ci\":\"2020070710004591,2020070710004589,2020070710004590,2020070710004592,2020070710004593,2020070710004594,\",\"buuid\":\"2020041410003619\",\"creater\":\"用户1\",\"_$disabledIds\":[]}"
+      }
+    },
+    "url": "/appCustomProcessRestService/getFieldFormList",
+    "data": "app_business_type=XB"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"CG\":1,\"achived\":[{\"code\":\"2019082310000342\",\"name\":\"环境例行操作（巡检）\",\"value\":0},{\"code\":\"2019082310000343\",\"name\":\"软件例行操作（巡检）\",\"value\":0},{\"code\":\"2019082310000344\",\"name\":\"优化改善\",\"value\":0},{\"code\":\"2019082310000345\",\"name\":\"响应支持（日常维护）\",\"value\":0},{\"code\":\"2019082310000346\",\"name\":\"咨询服务\",\"value\":2},{\"code\":\"2019082310000347\",\"name\":\"培训服务\",\"value\":0},{\"code\":\"2019082310000348\",\"name\":\"例行操作\",\"value\":0},{\"code\":\"2019082310000349\",\"name\":\"响应支持\",\"value\":0},{\"code\":\"2019082310000350\",\"name\":\"优化改善\",\"value\":0},{\"code\":\"2019082310000351\",\"name\":\"调研评估\",\"value\":0}],\"TJ\":12,\"BJ\":2,\"YB\":8,\"urgencyTask\":[{\"code\":\"01\",\"name\":\"非常紧急\",\"value\":4},{\"code\":\"02\",\"name\":\"紧急\",\"value\":1},{\"code\":\"03\",\"name\":\"普通\",\"value\":7},{\"code\":\"04\",\"name\":\"一般\",\"value\":1}],\"noAchived\":[{\"code\":\"2019082310000342\",\"name\":\"环境例行操作（巡检）\",\"value\":0},{\"code\":\"2019082310000343\",\"name\":\"软件例行操作（巡检）\",\"value\":0},{\"code\":\"2019082310000344\",\"name\":\"优化改善\",\"value\":0},{\"code\":\"2019082310000345\",\"name\":\"响应支持（日常维护）\",\"value\":0},{\"code\":\"2019082310000346\",\"name\":\"咨询服务\",\"value\":0},{\"code\":\"2019082310000347\",\"name\":\"培训服务\",\"value\":0},{\"code\":\"2019082310000348\",\"name\":\"例行操作\",\"value\":0},{\"code\":\"2019082310000349\",\"name\":\"响应支持\",\"value\":0},{\"code\":\"2019082310000350\",\"name\":\"优化改善\",\"value\":0},{\"code\":\"2019082310000351\",\"name\":\"调研评估\",\"value\":0}],\"incidentCategory\":[{\"code\":\"01\",\"name\":\"程序BUG修改\",\"value\":10},{\"code\":\"02\",\"name\":\"功能调整\",\"value\":1},{\"code\":\"03\",\"name\":\"新增功能及需求\",\"value\":1},{\"code\":\"04\",\"name\":\"数据统计\",\"value\":1}],\"satisfaction\":[],\"DB\":6,\"ZH\":0}"
+      }
+    },
+    "url": "/appStatisticRestService/queryMyTaskCount",
+    "data": "startTime=2020-07-01&endTime=2020-07-15&biz_code=SJ"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"CG\":5,\"TJ\":13,\"BJ\":10,\"YB\":10,\"urgencyTask\":[{\"code\":\"01\",\"name\":\"非常紧急\",\"value\":14},{\"code\":\"02\",\"name\":\"紧急\",\"value\":0},{\"code\":\"03\",\"name\":\"普通\",\"value\":4},{\"code\":\"04\",\"name\":\"一般\",\"value\":0}],\"incidentCategory\":[{\"code\":\"01\",\"name\":\"程序BUG修改\",\"value\":18}],\"DB\":3,\"ZH\":0}"
+      }
+    },
+    "url": "/appStatisticRestService/queryMyTaskCount",
+    "data": "startTime=2020-07-01&endTime=2020-07-15&biz_code=WT"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"CG\":1,\"TJ\":2,\"BJ\":0,\"YB\":0,\"urgencyTask\":[{\"code\":\"01\",\"name\":\"非常紧急\",\"value\":3},{\"code\":\"02\",\"name\":\"紧急\",\"value\":0},{\"code\":\"03\",\"name\":\"普通\",\"value\":0},{\"code\":\"04\",\"name\":\"一般\",\"value\":0}],\"change_type\":[{\"code\":\"01\",\"name\":\"标准变更\",\"value\":2},{\"code\":\"03\",\"name\":\"重大变更\",\"value\":1}],\"incidentCategory\":[{\"code\":\"01\",\"name\":\"程序BUG修改\",\"value\":2},{\"code\":\"02\",\"name\":\"功能调整\",\"value\":1}],\"DB\":2,\"ZH\":0}"
+      }
+    },
+    "url": "/appStatisticRestService/queryMyTaskCount",
+    "data": "startTime=2020-07-01&endTime=2020-07-15&biz_code=BG"
+  },
+  {
+    "response": {
+      "data": {
+        "result": "{\"CG\":3,\"TJ\":0,\"release_statistics\":[],\"BJ\":0,\"YB\":0,\"urgencyTask\":[{\"code\":\"01\",\"name\":\"非常紧急\",\"value\":3},{\"code\":\"02\",\"name\":\"紧急\",\"value\":0},{\"code\":\"03\",\"name\":\"普通\",\"value\":0},{\"code\":\"04\",\"name\":\"一般\",\"value\":0}],\"DB\":0,\"ZH\":0}"
+      }
+    },
+    "url": "/appStatisticRestService/queryMyTaskCount",
+    "data": "startTime=2020-07-01&endTime=2020-07-15&biz_code=FB"
+  }
+]
