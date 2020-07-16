@@ -98,7 +98,7 @@ export default {
     .omsptask {
         &-tab-title {
             position: relative;
-            /*padding: 10px 20px;*/ // vant版本问题
+            padding: 10px 20px; // vant版本问题
         }
 
         &-info {
