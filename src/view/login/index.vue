@@ -81,8 +81,8 @@ export default {
     return {
       isGitee: process.env.VUE_APP_PAGES === 'gitee',
       userinfo: {
-        loginid: 'shuxm',
-        password: '1'
+        loginid: '',
+        password: ''
       },
       loginsuccess: false,
       show: false,
@@ -105,8 +105,8 @@ export default {
     }
 
     const info = publicJs.get_omsp_app_userinfo()
-    this.userinfo.loginid = info.loginid
-    this.userinfo.password = info.password
+    this.userinfo.loginid = info.loginid || 'shuxm'
+    this.userinfo.password = info.password || '1'
     // if (this.userinfo.loginid && this.userinfo.password) {
     //   this.userinfo.password = Base64.decode(this.userinfo.password)
     // }
