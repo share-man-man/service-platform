@@ -81,8 +81,8 @@ export default {
     return {
       isGitee: process.env.VUE_APP_PAGES === 'gitee',
       userinfo: {
-        loginid: '',
-        password: ''
+        loginid: 'shuxm',
+        password: '1'
       },
       loginsuccess: false,
       show: false,

@@ -8,7 +8,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "dev": "yarn serve --mode developer",
-    "test": "yarn serve --mode test",
+    "gitee": "yarn build --mode gitee",
     "mobile": "yarn build --mode mobile"
   },
   "dependencies": {
